@@ -107,7 +107,26 @@ h3{
     color: #000;
 }
 
+.insta-color:hover{
+    color: #E1306C;
 
+}
+
+.yt-color:hover{
+    color: #FF0000;
+}
+
+.twitch-color:hover{
+    color: #6441a5;
+}
+
+.face-color:hover{
+    color: #4267B2;
+}
+
+.twit-color:hover{
+    color: #1DA1F2;
+}
 
 
 
