@@ -6,10 +6,11 @@ body {
 
 }
 hr{
-    width: 70%;
-        margin-left: auto;
-        margin-right: auto;
-  background-color: #2C394B;
+    width: 10%;
+        margin: auto;
+  background-color: #ffff;
+  border-width: 2px;
+  
 }
 
 h1{
@@ -26,12 +27,14 @@ h2{
     font-size: 40px;
     font-weight: bold;
     color: #ffff;
+   
+    
 }
 
 h3{
     font-family: 'Montserrat', sans-serif;
-    
     color:#00B8FC;
+    padding-bottom: 20px;
 }
 
 .top-container{
@@ -41,6 +44,12 @@ h3{
 
 .middle-container{
    color:#fff;
+}
+
+.profile{
+    width: 30%;
+    margin: auto;
+    padding-bottom: 30px;
 }
 
 .bottom-container{
@@ -66,6 +75,8 @@ h3{
     font-family: 'Montserrat', 'sans serif';
     color: #00B8FC;
     font-weight: 800;
+    padding: 10px 0;
+   
     
 }
 .top-cloud{
@@ -81,18 +92,22 @@ h3{
 }
 .Skills{
     width: 50%;
-    margin: 100px auto 100px auto;
+    margin: 50px auto 100px auto;
     text-align: left;
     line-height: 2;
+
+   
 }
 .skill-row{
    margin-bottom: 100px;
 }
+
 .image1{
     width: 50%;
     float: left;
     margin-right: 30px;
     left: 300;
+    
 
     
 }
@@ -108,6 +123,8 @@ h3{
     background-color: #fff;
     color: #000;
 }
+
+/* adding color to icons */
 
 .insta-color:hover{
     color: #E1306C;
@@ -129,6 +146,5 @@ h3{
 .twit-color:hover{
     color: #1DA1F2;
 }
-
 
 
