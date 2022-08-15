@@ -46,8 +46,10 @@ h3{
 .bottom-container{
    color:#11999E;
    line-height: 5;
+   padding-top: 30px;
    
 }
+
 .footer-link{
     text-decoration: none;
     font-family: 'Montserrat', 'sans serif';
